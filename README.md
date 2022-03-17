@@ -5,5 +5,6 @@
 - 😍 I'm collaborating with [openHAB](https://www.openhab.org/ "openHAB homepage"), [DeepSpeech](https://github.com/mozilla/DeepSpeech "DeepSpeech on Github"), [Common Voice](https://commonvoice.mozilla.org/ "Contribute to Common Voice") and [Mycroft](https://mycroft.ai/ "Mycroft homepage")
 - 🔍 [Crowdin profile](https://crowdin.com/profile/pano-peter "Click, to view my profile"), [Mycroft translate profile](https://translate.mycroft.ai/user/pano_peter/)
 - 🙏 You can help too without special skills: [openHAB Translate](https://translate.openhab.org/), [Mycroft Translate](https://translate.mycroft.ai "Click here to help translate Mycroft"), [Common Voice](https://commonvoice.mozilla.org/ "Contribute to Common Voice")
+- 👍 Don't forget to [like openHAB](https://alternativeto.net/software/openhab/about/ "Like openHAB")
 - 📗 [blog](https://pano-peter.blogspot.com/) (work in progress)
-- 🇭🇺 Te is segíthetsz létrehozni egy magyar nyelvű adatbázist hangminták [beküldésével](https://commonvoice.mozilla.org/hu/speak) vagy [hallgatásával](https://commonvoice.mozilla.org/hu/listen), mindezt a böngésződből.
+- 🇭🇺 Te is segíthetsz létrehozni egy magyar nyelvű adatbázist hangminták [beküldésével](https://commonvoice.mozilla.org/hu/speak) vagy [hallgatásával](https://commonvoice.mozilla.org/hu/listen), mindezt a böngésződből. Telefonon is működik.

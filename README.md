@@ -20,5 +20,7 @@
   <a href="https://developer.android.com/index.html" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/android.svg" alt="android" height="30" width="40" /></a>
   <a href="https://linux.org" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg" alt="linux" height="30" width="40" /></a>
   <a href="https://tensorflow.org" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tensorflow.svg" alt="tensorflow" height="30" width="40" /></a>
-  
+  <a href="https://ubuntu.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ubuntu.svg" alt="ubuntu" height="30" width="40" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gnubash.svg" alt="bash" height="30" width="40" /></a>
+  <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg" alt="vs code" height="30" width="40" /></a>
 </p>
